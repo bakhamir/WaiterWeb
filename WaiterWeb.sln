@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaiterWeb", "WaiterWeb\WaiterWeb.csproj", "{18736203-6BF7-4DF6-BEE2-2021619375F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18736203-6BF7-4DF6-BEE2-2021619375F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18736203-6BF7-4DF6-BEE2-2021619375F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18736203-6BF7-4DF6-BEE2-2021619375F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18736203-6BF7-4DF6-BEE2-2021619375F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8098F65A-C4CE-4FED-A91F-94FDB6A24447}
+	EndGlobalSection
+EndGlobal
